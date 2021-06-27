@@ -1,0 +1,14 @@
+body{
+    top: 0px;
+    margin: 0px;
+}
+img{
+    position: absolute;
+}
+
+hr{
+    position: absolute;
+    background-color: white;
+    width: 600px;
+    height: 0.1px;
+}
